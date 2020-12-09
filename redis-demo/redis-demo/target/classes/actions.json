@@ -1,0 +1,37 @@
+{
+  "actions": [
+    {
+      "name": "ADD_USER",
+      "describe": "Increase of online users",
+      "operation":[
+        {
+          "counterName": "showUserCount"
+        },
+        {
+          "counterName": "addUser"
+        }
+      ]
+    },
+    {
+      "name": "DEL_USER",
+      "describe": "Decrease of online user",
+      "operation": [
+        {
+          "counterName": "showUserCount"
+        },
+        {
+          "counterName": "delUser"
+        }
+      ]
+    },
+    {
+      "name": "SHOW_USER_FREQ",
+      "describe": "Number of online users between specified",
+      "operation": [
+        {
+          "counterName": "showUserFreq"
+        }
+      ]
+    }
+  ]
+}

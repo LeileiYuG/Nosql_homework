@@ -1,0 +1,9 @@
+com\bjtu\redis\JedisInstance$SingletonEnum.class
+com\bjtu\redis\MyJedis.class
+com\bjtu\redis\JsonToMap.class
+com\bjtu\redis\JsonToStr.class
+com\bjtu\redis\JedisInstance.class
+com\bjtu\redis\Main.class
+com\bjtu\redis\RedisDemoApplication.class
+com\bjtu\redis\FileListener.class
+com\bjtu\redis\FileMonitor.class
